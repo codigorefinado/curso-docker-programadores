@@ -7,11 +7,11 @@ Com o Dockerfile, podemos construir sua imagem (inclui o ponto no final):
 
 
 Então, podemos executar o container, com:
-> docker run --name host1 -p 8081:8080 tomee-war  
+> docker run -d --name host1 -p 8081:8080 tomee-war  
 
-> docker run --name host2 -p 8082:8080 tomee-war  
+> docker run -d --name host2 -p 8082:8080 tomee-war  
 
-> docker run --name host3 -p 8083:8080 tomee-war  
+> docker run -d --name host3 -p 8083:8080 tomee-war  
 
 
 Executar o nginx, como um loadbalancer, veja a documentação em: https://hub.docker.com/r/jasonwyatt/nginx-loadbalancer/
