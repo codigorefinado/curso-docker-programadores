@@ -1,0 +1,12 @@
+version: "3"
+services: 
+  dockernode:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: netstart/dockernode
+    command: npm run startnodemon
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/usr/app
