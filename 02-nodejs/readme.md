@@ -35,7 +35,13 @@ Para todos os containeres
 > docker stop -t 0 $(docker ps -q)
 
 Instala o nodemon
-> npm install -g nodemon
+> npm install nodemon
+
+Executa o container mapeando um volume da pasta corrente para /usr/app
+> docker run -d -p 3000:3000 -v $(pwd):/usr/app netstart/dockernode
+
+Crie oarquivo docker-compose.yml
+> touch docker-compose.yml
 
 Executa o docker compose para oquestrar
 > docker-compose up
@@ -46,5 +52,4 @@ No diretório onde tem o arquivo docker-compose.yml
 > docker-compose stop
 
 
-
-
+https://github.com/docker/labs/tree/master/developer-tools
