@@ -2,6 +2,7 @@ Como você pode ficar atualizado sobre novidades e conversar sobre os diversos a
 Telegram: https://t.me/codigorefinado
 
 Blog: http://medium.com/codigorefinado
+
 Canal: http://youtube.com/codigorefinado
 
 Twitter: @cknp
