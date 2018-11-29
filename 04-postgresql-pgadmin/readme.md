@@ -1,14 +1,15 @@
 Como você pode ficar atualizado sobre novidades e conversar sobre os diversos aspectos do desenvolvimento de software?
-https://t.me/codigorefinado
+Telegram: https://t.me/codigorefinado
 
-http://medium.com/codigorefinado
-http://youtube.com/codigorefinado
+Blog: http://medium.com/codigorefinado
+Canal: http://youtube.com/codigorefinado
 
 Twitter: @cknp
 
 Só para quem quer se manter atualizado e receber cupons de desconto nos próximos curso:
 http://bit.ly/queroMais
 
+Repositório do curso de docker para programadores
 https://github.com/codigorefinado/curso-docker-programadores
 
 
