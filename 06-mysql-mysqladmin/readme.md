@@ -21,3 +21,7 @@ preencha o formulário com:
 Servicor: db
 utilizador: root
 Senha: password
+
+
+Para entrar dentro do banco de dados mysql em execução
+> docker exec -it <container id> bash

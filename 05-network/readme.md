@@ -1,3 +1,10 @@
+Telegram: https://t.me/codigorefinado
+Blog: http://medium.com/codigorefinado
+Canal: http://youtube.com/codigorefinado
+Twitter: @cknp
+Só para quem quer se manter atualizado e receber cupons de desconto nos próximos curso:
+http://bit.ly/queroMais
+
 
 
 > docker run -it ubuntu
