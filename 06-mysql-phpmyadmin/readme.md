@@ -1,6 +1,3 @@
-
-
-
 Execute o docker compose duas vezes, uma na pasta phpMyAdmin,  isto irá levantar o banco de dados mysql e na sequencia o phpMyAdmin, criando uma rede entre eles pela funcionalidade de link
 > docker-compose up -d app
 
@@ -25,3 +22,17 @@ Senha: password
 
 Para entrar dentro do banco de dados mysql em execução
 > docker exec -it <container id> bash
+
+
+
+### Segue lá!!!!
+Blog: http://medium.com/codigorefinado
+
+Canal: http://youtube.com/codigorefinado
+
+Twitter: http://twitter.com/cknp
+
+Telegram: https://t.me/codigorefinado
+
+Só para quem quer se manter atualizado e receber cupons de desconto nos próximos curso:
+http://bit.ly/queroMais

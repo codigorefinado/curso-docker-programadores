@@ -1,12 +1,3 @@
-Telegram: https://t.me/codigorefinado
-Blog: http://medium.com/codigorefinado
-Canal: http://youtube.com/codigorefinado
-Twitter: @cknp
-Só para quem quer se manter atualizado e receber cupons de desconto nos próximos curso:
-http://bit.ly/queroMais
-
-
-
 > docker run -it ubuntu
 
 > docker inspect <container id>
@@ -46,3 +37,16 @@ Inspecionar as redes
 
 
 https://docs.docker.com/v17.09/engine/userguide/networking/#the-docker_gwbridge-network
+
+
+### Segue lá!!
+Blog: http://medium.com/codigorefinado
+
+Canal: http://youtube.com/codigorefinado
+
+Twitter: http://twitter.com/cknp
+
+Telegram: https://t.me/codigorefinado
+
+Só para quem quer se manter atualizado e receber cupons de desconto nos próximos curso:
+http://bit.ly/queroMais
